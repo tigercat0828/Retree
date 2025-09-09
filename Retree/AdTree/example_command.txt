@@ -1,0 +1,2 @@
+./AdTree tree1.xyz -s
+# use it in cmd not call in C++ system(cmd)
