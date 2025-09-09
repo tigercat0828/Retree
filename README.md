@@ -32,3 +32,12 @@
 | E                    | Enable / Disable wind effect                  |
 | X                    | Show / Hide coordinate axes                   |
 | G                    | Show / Hide grid                              |
+
+
+## Libraries
+- [AdTree](https://github.com/tudelft3d/AdTree) - tree reconstruction from point cloud algorithm
+- [SDL3](https://www.libsdl.org/) - Used to display graphical windows and handle keyboard/mouse input.
+- [glad](https://glad.dav1d.de/) - Loads Modern OpenGL function addresses for the main program.
+- [GLM](https://github.com/g-truc/glm) - Provides common mathematical tools for computer graphics.
+- [ImGui](https://github.com/ocornut/imgui) - A lightweight and fast way to build interactive user interface controls, compatible with various graphics APIs.
+- [Boost Graph Library](https://www.boost.org/doc/libs/release/libs/graph) - Used for efficient processing of graph structures and algorithm operations.
